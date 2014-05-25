@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"add_new_player"
+			],
+			[
+				"re",
+				"relationship  (variable)"
+			],
+			[
+				"asse",
+				"assertEqual  (function)"
+			],
+			[
+				"get_",
+				"get_database  (function)"
+			],
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"new",
+				"new_weight"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"in",
+				"interval_of_time"
+			],
+			[
+				"da",
+				"database_list"
+			],
+			[
+				"animals_",
+				"animals_from_db"
+			],
+			[
+				"zoo",
+				"zoo_class"
+			],
+			[
+				"__",
+				"__animals"
+			],
+			[
+				"for",
+				"formated_list"
+			],
+			[
+				"ani",
+				"animal_string"
+			],
+			[
+				"update",
+				"update_zoo"
+			],
+			[
+				"de",
+				"DEFAULT"
+			],
+			[
+				"user",
+				"usernames"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"ha",
+				"hashed_pass"
+			],
+			[
+				"has",
+				"hash_pass"
+			],
+			[
+				"lo",
+				"logged_user"
+			],
+			[
+				"ass",
+				"assertEqual  (function)"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"co",
+				"count_sp_chars"
+			],
+			[
+				"reoi",
+				"repositories_url"
+			],
+			[
+				"download_re",
+				"download_repository"
+			],
+			[
+				"repo",
+				"repositories"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"li",
+				"lines_count"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"num",
+				"num_string"
+			],
+			[
+				"con",
+				"content_to_print"
+			],
+			[
+				"mo",
+				"monthly_salary"
+			],
+			[
+				"em",
+				"employee_id"
+			],
+			[
+				"mon",
+				"monthly_spending"
+			],
+			[
+				"contact",
+				"contact_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 466.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/svetla/Code/DotaApp/js/adminPage.js",
+		"/home/svetla/Code/DotaApp/adminPage.html",
+		"/home/svetla/Code/DotaApp/adminPage.js",
+		"/home/svetla/Code/HackBulgaria-Programming101/week7/math_game.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week7/orm.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/test_animals.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/test_zoo.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/test_database.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/test_interface.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/interface.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/database.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/animals.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/zoo.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/.gitignore",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/client.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/sql_manager.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/start.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/tests/client_test.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/tests/sql_manager_test.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/tests/start_test.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/test_start.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week6/money-in-the-bank/.gitignore",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/download_repos.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/.gitignore",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/test_statistics.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/statistics.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/local_config.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/env/statistics.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/env/local_config.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/env/test_statistics.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/env/statistics/test_statistics.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week5/env/statistics/statistics.py",
+		"/home/svetla/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/create_table.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F7_pizza_delivery/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/run_tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day1/run_tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day1/script.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/run_tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F7_pizza_delivery/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F6_wc/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F6_wc/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F5_concat_files/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F5_concat_files/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F5_concat_files/megatron.txt",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F4_sum_numbers/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F4_sum_numbers/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day3/Zoo/test_animals.py.orig",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F3_generate_numbers/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F3_generate_numbers/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F2_cat2/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F2_cat2/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F1_cat/solution.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F1_cat/tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week0/week0day3/F1_cat/test.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/maillist.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/plan_kovaren_mnogo.txt",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/maillist-Svetla.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/maillist_factory.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/maillist_database_adapter.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/maillist_file_adapter.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/test_maillist_database_adapter.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/test_maillist_file_adapter.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day1/create_company.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day1/manage_company.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/mail.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/test_command_parser.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/test_maillist.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day2/MailList-1/test_maillist_factory.py",
+		"/home/svetla/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/svetla/Code/HackBulgaria-Programming101/week4/week4day1/db_link.py",
+		"/home/svetla/install.sh",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/construction_main_body.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/file_service.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/file_service_tests.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/file_service_test_body.py",
+		"/home/svetla/.config/sublime-text-3/Packages/AdvancedNewFile/README.md",
+		"/home/svetla/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/.SecondTry.json.swp",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/mailList.py",
+		"/home/svetla/Code/HackBulgaria-Programming101/week3/PairProgramming/construction_main_body_test.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update_from_",
+			"see_animals",
+			"print",
+			"__animals",
+			"accommodate",
+			"print",
+			"database",
+			"zoo.db",
+			"accomo",
+			"database",
+			"access_time",
+			"access",
+			"rtEqual(sql_manager.hash_pass(\"new_PASS123\"), user[2])\n\n    # def test_hash_pass(self):\n    #     pass1 = \"abcd123ABSD_123\"\n    #     m = hashlib.sha1()\n    #     m.update(pass1.encode(\"utf-8\"))\n    #     hashed_pass = m.hexdigest()\n    #     self.assertEqual",
+			"):\n",
+			"Client",
+			"logout",
+			"\")\n",
+			" \n",
+			"dump"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
